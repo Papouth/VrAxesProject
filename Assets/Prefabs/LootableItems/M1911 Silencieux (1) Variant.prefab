@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &727703542886218470
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 100.00007
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 100.00007
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -21.662
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 40.0287
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 93.293
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000029802322
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.70710695
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.00000008940697
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2322769661295950684, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6840932772490374289, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Name
+      value: M1911 Silencieux (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Activated.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Deactivated.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Activated.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Deactivated.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Deactivated.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Deactivated.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Deactivated.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RemoveSilencer
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RemoveSilencer
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Deactivated.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: M1911PosSilencer, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: M1911PosSilencer, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_Deactivated.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966964015704470837, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d9fdb089d76b1740942379dca6265c8, type: 3}
