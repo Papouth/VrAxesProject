@@ -789,11 +789,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 1
-  cloudProjectId: 
+  cloudProjectId: e7049631-e664-4eee-ae82-1da8c9ce1ba8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: VrAxesProject
+  organizationId: louismagiedu59
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
