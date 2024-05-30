@@ -5,20 +5,35 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     #region Variables
-    [Header("Spawn LootCrates")]
-    public GameObject lootCrate;
+    public int[] situations;
 
-    [Tooltip("L'endroit où va spawn ma caisse sur la map")]
-    public Transform[] spawnLootCratePos;
+    public int pointsJoueur;
+    [SerializeField] private float timer;
+    private float timerReset;
     #endregion
+
 
     private void Start()
     {
-        SpawnLootCrate();
+        Time.timeScale = 1;
+
+        timerReset = timer;
     }
 
-    private void SpawnLootCrate()
-    {
 
+    private void Update()
+    {
+        timer -= Time.deltaTime;
+        if (timer <= 0)
+        {
+            // Fin de la partie
+            Time.timeScale = 0;
+        }
+    }
+
+    public void Replay()
+    {
+        Time.timeScale = 1;
+        timer = timerReset;
     }
 }
